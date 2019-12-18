@@ -1,1 +1,3 @@
 # projects
+
+Some coding projects.
